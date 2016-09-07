@@ -1,0 +1,2 @@
+# september
+get bash practice
